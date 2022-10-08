@@ -1,4 +1,4 @@
 [
-{"token":"26009","symbol":"BANKNIFTY","name":"BANKNIFTY","display_name":"NIFTY BANK","file_name":"banknifty_options.json","file_url":"https://drive.google.com/file/d/1NK3Wr5GZScrPLCspDw3OhzNuYfugpMfL/view?usp=sharing","version":"1.0.0"},
-{"token":"26000","symbol":"NIFTY","name":"NIFTY","display_name":"NIFTY 50","file_name":"nifty_options.json","file_url":"https://drive.google.com/file/d/1gF-5GIT5U_0fTxv00bvxVTI8vUMJ45nw/view?usp=sharing","version":"1.0.0"},
+{"token":"26009","symbol":"BANKNIFTY","name":"BANKNIFTY","display_name":"NIFTY BANK","file_name":"banknifty_options.json","file_url":"https://raw.githubusercontent.com/barunks-ds/armpy/master/banknifty_options.json","version":"1.0.0"},
+{"token":"26000","symbol":"NIFTY","name":"NIFTY","display_name":"NIFTY 50","file_name":"nifty_options.json","file_url":"https://raw.githubusercontent.com/barunks-ds/armpy/master/nifty_options.json","version":"1.0.0"},
 ]
