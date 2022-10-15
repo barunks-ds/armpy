@@ -1,4 +1,5 @@
-[{"token":"60942","symbol":"NIFTY24NOV2215150CE","name":"NIFTY","expiry":"24NOV2022","strike":"1515000.000000","lotsize":"50","instrumenttype":"OPTIDX","exch_seg":"NFO","tick_size":"5.000000"},
+[
+{"token":"60942","symbol":"NIFTY24NOV2215150CE","name":"NIFTY","expiry":"24NOV2022","strike":"1515000.000000","lotsize":"50","instrumenttype":"OPTIDX","exch_seg":"NFO","tick_size":"5.000000"},
 {"token":"48497","symbol":"NIFTY10NOV2219650PE","name":"NIFTY","expiry":"10NOV2022","strike":"1965000.000000","lotsize":"50","instrumenttype":"OPTIDX","exch_seg":"NFO","tick_size":"5.000000"},
 {"token":"55115","symbol":"NIFTY27JUN2418000CE","name":"NIFTY","expiry":"27JUN2024","strike":"1800000.000000","lotsize":"50","instrumenttype":"OPTIDX","exch_seg":"NFO","tick_size":"5.000000"},
 {"token":"42707","symbol":"NIFTY29DEC2213100PE","name":"NIFTY","expiry":"29DEC2022","strike":"1310000.000000","lotsize":"50","instrumenttype":"OPTIDX","exch_seg":"NFO","tick_size":"5.000000"},
@@ -823,7 +824,6 @@
 {"token":"53257","symbol":"NIFTY13OCT2219950CE","name":"NIFTY","expiry":"13OCT2022","strike":"1995000.000000","lotsize":"50","instrumenttype":"OPTIDX","exch_seg":"NFO","tick_size":"5.000000"},
 {"token":"57661","symbol":"NIFTY27OCT2219550CE","name":"NIFTY","expiry":"27OCT2022","strike":"1955000.000000","lotsize":"50","instrumenttype":"OPTIDX","exch_seg":"NFO","tick_size":"5.000000"},
 {"token":"59377","symbol":"NIFTY20OCT2218750PE","name":"NIFTY","expiry":"20OCT2022","strike":"1875000.000000","lotsize":"50","instrumenttype":"OPTIDX","exch_seg":"NFO","tick_size":"5.000000"},
-{"token":"51951","symbol":"NIFTY27OCT22FUT","name":"NIFTY","expiry":"27OCT2022","strike":"-1.000000","lotsize":"50","instrumenttype":"FUTIDX","exch_seg":"NFO","tick_size":"5.000000"},
 {"token":"47433","symbol":"NIFTY06OCT2219200PE","name":"NIFTY","expiry":"06OCT2022","strike":"1920000.000000","lotsize":"50","instrumenttype":"OPTIDX","exch_seg":"NFO","tick_size":"5.000000"},
 {"token":"61242","symbol":"NIFTY24NOV2217250PE","name":"NIFTY","expiry":"24NOV2022","strike":"1725000.000000","lotsize":"50","instrumenttype":"OPTIDX","exch_seg":"NFO","tick_size":"5.000000"},
 {"token":"48283","symbol":"NIFTY10NOV2218000PE","name":"NIFTY","expiry":"10NOV2022","strike":"1800000.000000","lotsize":"50","instrumenttype":"OPTIDX","exch_seg":"NFO","tick_size":"5.000000"},
@@ -1042,7 +1042,6 @@
 {"token":"53087","symbol":"NIFTY13OCT2218550CE","name":"NIFTY","expiry":"13OCT2022","strike":"1855000.000000","lotsize":"50","instrumenttype":"OPTIDX","exch_seg":"NFO","tick_size":"5.000000"},
 {"token":"48144","symbol":"NIFTY10NOV2217050CE","name":"NIFTY","expiry":"10NOV2022","strike":"1705000.000000","lotsize":"50","instrumenttype":"OPTIDX","exch_seg":"NFO","tick_size":"5.000000"},
 {"token":"57532","symbol":"NIFTY27OCT2216300PE","name":"NIFTY","expiry":"27OCT2022","strike":"1630000.000000","lotsize":"50","instrumenttype":"OPTIDX","exch_seg":"NFO","tick_size":"5.000000"},
-{"token":"53395","symbol":"NIFTY24NOV22FUT","name":"NIFTY","expiry":"24NOV2022","strike":"-1.000000","lotsize":"50","instrumenttype":"FUTIDX","exch_seg":"NFO","tick_size":"5.000000"},
 {"token":"53040","symbol":"NIFTY13OCT2217950CE","name":"NIFTY","expiry":"13OCT2022","strike":"1795000.000000","lotsize":"50","instrumenttype":"OPTIDX","exch_seg":"NFO","tick_size":"5.000000"},
 {"token":"86415","symbol":"NIFTY29DEC2218400PE","name":"NIFTY","expiry":"29DEC2022","strike":"1840000.000000","lotsize":"50","instrumenttype":"OPTIDX","exch_seg":"NFO","tick_size":"5.000000"},
 {"token":"60955","symbol":"NIFTY24NOV2215350PE","name":"NIFTY","expiry":"24NOV2022","strike":"1535000.000000","lotsize":"50","instrumenttype":"OPTIDX","exch_seg":"NFO","tick_size":"5.000000"},
@@ -2238,7 +2237,6 @@
 {"token":"47510","symbol":"NIFTY06OCT2219700CE","name":"NIFTY","expiry":"06OCT2022","strike":"1970000.000000","lotsize":"50","instrumenttype":"OPTIDX","exch_seg":"NFO","tick_size":"5.000000"},
 {"token":"45852","symbol":"NIFTY28DEC2317000CE","name":"NIFTY","expiry":"28DEC2023","strike":"1700000.000000","lotsize":"50","instrumenttype":"OPTIDX","exch_seg":"NFO","tick_size":"5.000000"},
 {"token":"48054","symbol":"NIFTY10NOV2216550PE","name":"NIFTY","expiry":"10NOV2022","strike":"1655000.000000","lotsize":"50","instrumenttype":"OPTIDX","exch_seg":"NFO","tick_size":"5.000000"},
-{"token":"62809","symbol":"NIFTY29DEC22FUT","name":"NIFTY","expiry":"29DEC2022","strike":"-1.000000","lotsize":"50","instrumenttype":"FUTIDX","exch_seg":"NFO","tick_size":"5.000000"},
 {"token":"48451","symbol":"NIFTY10NOV2219200PE","name":"NIFTY","expiry":"10NOV2022","strike":"1920000.000000","lotsize":"50","instrumenttype":"OPTIDX","exch_seg":"NFO","tick_size":"5.000000"},
 {"token":"52569","symbol":"NIFTY13OCT2214800CE","name":"NIFTY","expiry":"13OCT2022","strike":"1480000.000000","lotsize":"50","instrumenttype":"OPTIDX","exch_seg":"NFO","tick_size":"5.000000"},
 {"token":"52596","symbol":"NIFTY13OCT2214950PE","name":"NIFTY","expiry":"13OCT2022","strike":"1495000.000000","lotsize":"50","instrumenttype":"OPTIDX","exch_seg":"NFO","tick_size":"5.000000"},
@@ -2515,5 +2513,4 @@
 {"token":"47588","symbol":"NIFTY06OCT2220200CE","name":"NIFTY","expiry":"06OCT2022","strike":"2020000.000000","lotsize":"50","instrumenttype":"OPTIDX","exch_seg":"NFO","tick_size":"5.000000"},
 {"token":"86335","symbol":"NIFTY29DEC2216200PE","name":"NIFTY","expiry":"29DEC2022","strike":"1620000.000000","lotsize":"50","instrumenttype":"OPTIDX","exch_seg":"NFO","tick_size":"5.000000"},
 {"token":"45846","symbol":"NIFTY29JUN2317000CE","name":"NIFTY","expiry":"29JUN2023","strike":"1700000.000000","lotsize":"50","instrumenttype":"OPTIDX","exch_seg":"NFO","tick_size":"5.000000"},
-{"token":"2","symbol":"NIFTY50","name":"NIFTY","expiry":"","strike":"-1.000000","lotsize":"1","instrumenttype":"INDEX","exch_seg":"CDS","tick_size":"25000.000000"},
 ]
