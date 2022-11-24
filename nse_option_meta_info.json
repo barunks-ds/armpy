@@ -1,4 +1,4 @@
 [
 {"option":"BANKNIFTY","displayName":"NIFTY BANK","lotSize":"25","strikeJump":"100","url":"https://www.nseindia.com/api/option-chain-indices?symbol=BANKNIFTY"},
-{"option":"NIFTY","displayName":"NIFTY 50","lotSize":"50","strikeJump":"50","url":"https://www.nseindia.com/api/option-chain-indices?symbol=NIFTY"},
+{"option":"NIFTY","displayName":"NIFTY 50","lotSize":"50","strikeJump":"50","url":"https://www.nseindia.com/api/option-chain-indices?symbol=NIFTY"}
 ]
